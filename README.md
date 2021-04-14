@@ -24,13 +24,7 @@
         * Implement Delete method;
         * Implement Put method;
     
-5. Project: __DellChallenge.D2.Web__
-    * Change `ProductController`:
-        * Implement `Delete` method;
-        * Implement `Update` method and create necessay view with logic;
-        * Implement validation for mandatory field `Name` on `Product` in `Add` and `Update` methods;
-
-6. Project: __DellChallenge.D3.React__
+5. Project: __DellChallenge.D2.React__
     * Change `Products` component:
         * Implement `Delete` method;
         * Implement `Update` method in the component;
