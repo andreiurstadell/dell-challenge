@@ -37,6 +37,6 @@
         * Implement validation for mandatory field `Name` on `Product` in `Add` and `Update` components;
 
 # NOTES
-* __Please provide solution by forking;__
+* __Please start working on solution by forking, as current repository is subject to change;__
 * __Entire solution must compile;__
 * __To run the React app, you need to download and install Node.js from https://nodejs.org/en/ and run `npm start` in cmd\bash console__
