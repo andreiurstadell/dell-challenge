@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.168
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DellChallenge.A", "DellChallenge.A\DellChallenge.A.csproj", "{FBA47CAD-9263-4F82-8066-BE68C7BBD47A}"
 EndProject
@@ -9,9 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DellChallenge.B", "DellChal
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DellChallenge.C", "DellChallenge.C\DellChallenge.C.csproj", "{19D8FC7E-7040-495A-81B4-F83738B18B0D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DellChallenge.D1.Api", "DellChallenge.D1.Api\DellChallenge.D1.Api.csproj", "{D2FC3998-3D22-487A-997F-B0D1CF6CB6E2}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DellChallenge.D2.Web", "DellChallenge.D2.Web\DellChallenge.D2.Web.csproj", "{40B220A3-8214-445C-8DA6-EE5CDFEC8891}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DellChallenge.D1.Api", "DellChallenge.D1.Api\DellChallenge.D1.Api.csproj", "{71E4CF9A-A8C9-4A79-B557-EAAE91B5A7C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,14 +29,10 @@ Global
 		{19D8FC7E-7040-495A-81B4-F83738B18B0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19D8FC7E-7040-495A-81B4-F83738B18B0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19D8FC7E-7040-495A-81B4-F83738B18B0D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D2FC3998-3D22-487A-997F-B0D1CF6CB6E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D2FC3998-3D22-487A-997F-B0D1CF6CB6E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D2FC3998-3D22-487A-997F-B0D1CF6CB6E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D2FC3998-3D22-487A-997F-B0D1CF6CB6E2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{40B220A3-8214-445C-8DA6-EE5CDFEC8891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{40B220A3-8214-445C-8DA6-EE5CDFEC8891}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{40B220A3-8214-445C-8DA6-EE5CDFEC8891}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{40B220A3-8214-445C-8DA6-EE5CDFEC8891}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71E4CF9A-A8C9-4A79-B557-EAAE91B5A7C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71E4CF9A-A8C9-4A79-B557-EAAE91B5A7C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71E4CF9A-A8C9-4A79-B557-EAAE91B5A7C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71E4CF9A-A8C9-4A79-B557-EAAE91B5A7C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,7 +1,9 @@
-﻿namespace DellChallenge.D1.Api.Dto
+﻿using System;
+
+namespace DellChallenge.D1.Api.Dto
 {
     public class ProductDto : NewProductDto
     {
-        public string Id { get; set; }
+        public Guid Id { get; set; }
     }
 }
