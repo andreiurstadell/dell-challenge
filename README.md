@@ -26,7 +26,7 @@
         * Implement Put method;
     
 5. Project: __DellChallenge.D2.Spa__
-    * Build an SPA using (React)[https://reactjs.org/] that consumes __DellChallenge.D1.Api__'s actions;
+    * Build an SPA using [React](https://reactjs.org/) that consumes __DellChallenge.D1.Api__'s actions;
     * _hint_: use a different frontend library if preferred;
 
 # NOTES
