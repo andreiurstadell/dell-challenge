@@ -4,7 +4,7 @@
 * There are 5 projects in the DellChallenge solution and each one has a series of problems that need to be solved;
 * The first three projects (_A, B, C_) are aiming for coding best practices and standards;
 * Project _D1_ aims to verify the backend skills in developing RESTful Web APIs;
- * _hint_: use `/swagger` endpoint for checking methods;
+  * _hint_: use `/swagger` endpoint for checking methods;
 * Project _D2_ is a bonus challenge that aims to verify the frontend skills in developing SPA;
 * Please try and solve as much as possible of the challenges in their order;
 * There is no need for connecting to a database, feel free to use the already implemented in memory one;
