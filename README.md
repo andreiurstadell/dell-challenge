@@ -1,11 +1,11 @@
 # Dell Technical Challenges
 
 ## Technical Challenge presentation:
-* There are 4 projects in the DellChallenge solution and each one has a series of problems that need to be solved;
+* There are 5 projects in the DellChallenge solution and each one has a series of problems that need to be solved;
 * The first three projects (_A, B, C_) are aiming for coding practices and standards;
 * Project _D1_ aims to verify the backend skills in developing RESTful Web APIs;
   * _hint_: use `/swagger` endpoint for checking methods;
-* Placeholder _DellChallenge.D2.Spa_ is a bonus challenge that aims to verify the frontend skills in developing SPA;
+* Placeholder _DellChallenge.D2.Spa_ aims to verify skills in developing SPA;
 * Please try and solve as much as possible of the challenges in their order;
 * There is no need for connecting to a database, feel free to use the already implemented in memory one;
 
@@ -26,10 +26,9 @@
         * Implement Put method;
     
 5. Project: __DellChallenge.D2.Spa__
-    * Build an SPA using [React](https://reactjs.org/) that consumes __DellChallenge.D1.Api__'s actions;
-    * _hint_: use a different frontend library if preferred;
+    * Build an SPA using [React](https://reactjs.org/) that consumes __DellChallenge.D1.Api__'s resources;
 
 # NOTES
-* __Please start working on the solution by first forking, as the current repository is subject to change;__
+* __Please provide solution by forking project;__
 * __All projects must compile;__
-* __Please provide instructions for running project D2 if applicable;__
+* __Please provide instructions for running project D2;__
