@@ -29,6 +29,5 @@
     * Build an SPA using [React](https://reactjs.org/) that consumes __DellChallenge.D1.Api__'s resources;
 
 # NOTES
-* __Please provide solution by forking project;__
 * __All projects must compile;__
 * __Please provide instructions for running project D2;__
