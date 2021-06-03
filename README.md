@@ -2,7 +2,7 @@
 
 ## Technical Challenge presentation:
 * There are 4 projects in the DellChallenge solution and each one has a series of problems that need to be solved;
-* The first three projects (_A, B, C_) are aiming for coding best practices and standards;
+* The first three projects (_A, B, C_) are aiming for coding practices and standards;
 * Project _D1_ aims to verify the backend skills in developing RESTful Web APIs;
   * _hint_: use `/swagger` endpoint for checking methods;
 * Placeholder _DellChallenge.D2.Spa_ is a bonus challenge that aims to verify the frontend skills in developing SPA;
