@@ -1,1 +1,0 @@
-# Bonus Project - Single Page Application, consuming services from DellChallenge.D1.Api
