@@ -52,6 +52,6 @@
  ```
 
 # NOTES
-* __Provided solution must compile;__
+* __Provided solution must compile and must not contain binaries;__
 * __Please provide instructions for running project DellChallenge.D2.React;__
 * __Please provide instructions for running project DellChallenge.E.RabbitMQ;__
