@@ -7,7 +7,7 @@
   * _hint_: use `/swagger` endpoint;
 * Placeholder _DellChallenge.D2.React_ aims to verify skills in using React;
 * Placeholder _DellChallenge.E.RabbitMQ_ aims to verify skills in using RabbitMQ;
-* Please try and solve as much as possible of the challenges in their order;
+* Please try and solve as much as possible of the challenges;
 * There is no need for connecting to a database, feel free to use the already implemented in memory one;
 
 ## There are 6 problems that need to be solved:
@@ -32,6 +32,10 @@
 6. Project: __DellChallenge.E.RabbitMQ__
     * Create a project using [.NET/C# RabbitMQ Client Library](https://www.rabbitmq.com/dotnet.html)
     * Must have the following behavior
+      * producer can send a message of type sms/email
+      * only messages with type `sms` are consumed by `Sms Consumer`
+      * only messages with type `email` are consumed by `Email Consumer`
+      * all messages are consumed by `Audit Consumer`
 
 ```
                                         sms       +------------+     +--------------+
